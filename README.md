@@ -7,7 +7,7 @@ Get the Mimo app [getmimo.com/download](getmimo.com/download) and complete the P
 Read the Course Engineer’s Style Guide (provided separately), which describes how we write courses at Mimo.
 
 ## Step 3
-Keeping the Style Guide handy, find the flaws in these lessons. Please note that we’ve taken these screenshots in the Course Builder, which means they not look a little different than in the Mimo app.
+Keeping the Style Guide handy, find the flaws in these lessons. Please note that we’ve taken these screenshots in the Course Builder, which means they may look a little different than in the Mimo app.
 
 
 ### Question 1:
