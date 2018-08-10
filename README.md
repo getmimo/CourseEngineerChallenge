@@ -1,7 +1,7 @@
 # CourseEngineerChallenge
 
 ## Step 1
-Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS and complete the Swift Basics course in the Build an iOS App track. Don’t continue to step 2 unless you’ve completed the courses.
+Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS and complete the Swift Basics course in the Build an iOS App track. Don’t continue to step 2 unless you’ve completed the course.
 
 ## Step 2
 Read the Course Engineer’s Style Guide (provided separately), which describes how we write courses at Mimo.
