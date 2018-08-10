@@ -1,7 +1,7 @@
 # CourseEngineerChallenge
 
 ## Step 1
-Get the Mimo app [getmimo.com/download](getmimo.com/download) and complete the Programming 1 and 2 courses. If you don’t have an iOS device, try to borrow one from a friend or family member. Don’t continue to step 2 unless you’ve completed the courses.
+Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS and complete the Swift Basics course in the Build an iOS App track. Don’t continue to step 2 unless you’ve completed the courses.
 
 ## Step 2
 Read the Course Engineer’s Style Guide (provided separately), which describes how we write courses at Mimo.
@@ -38,7 +38,7 @@ Keeping the Style Guide handy, find the flaws in these lessons. Please note that
 
 
 ## Step 4
-We’re not very happy with the password cracking chapter of the cybersecurity course, because
+We’re not that happy with the password cracking chapter of the Cybersecurity course, because
 it suggests that hard-to-remember passwords are better (see: easy to remember, hard to guess)
 it doesn’t call brute-force attacks by their name and it only mentions dictionary attacks in passing
 
