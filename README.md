@@ -3,13 +3,13 @@
 Welcome to the Course Engineer Challenge. The purpose of this exercise is to give you an idea of what it's like to be a Course Engineer at Mimo. Also, it's a great way for us to see if you can dive into something new within a short timeframe and explain it in an easy-to-understand way.
 
 ## Step 1
-Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've provided. Complete the Swift Basics course in the Build an iOS App track. Seriously, complete it. Only continue to step 2 when you’ve completed the course.
+Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the JavaScript Basics course in the Become a Web Developer track. Seriously, complete it. Only continue to step 2 when you’ve completed the course.
 
 ## Step 2
 Read the Course Engineer’s Style Guide we've sent you. It describes how we write content at Mimo, how we call or spell things, how we punctuate, and so forth.
 
 ## Step 3
-Keeping the Style Guide handy, find the flaws the exercises below. Please note that we’ve taken these screenshots in the Course Builder, which means they look a little different than in the Mimo app.
+Keeping the Style Guide handy, find the flaws in the exercises below. Please note that we’ve taken these screenshots in the Course Builder, which means they look a little different than in the Mimo app.
 
 
 ### Question 1:
