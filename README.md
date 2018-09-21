@@ -1,6 +1,8 @@
 # CourseEngineerChallenge
 
-Welcome to the Course Engineer Challenge. The purpose of this exercise is to give you an idea of what it's like to be a Course Engineer at Mimo. Also, it's a great way for us to see if you can dive into something new within a short timeframe and explain it in an easy-to-understand way.
+Welcome to the Course Engineer Challenge. The purpose of this exercise is to give you an idea of what it's like to be a Course Engineer at Mimo. Also, it's a great way for us to see if you can dive into something new within a short timeframe (48 hours) and explain it in an easy-to-understand way.
+
+Fingers crossed!
 
 ## Step 1
 Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the JavaScript Basics course in the Become a Web Developer track. Seriously, complete it. Only continue to step 2 when you’ve completed the course.
@@ -40,24 +42,21 @@ Keeping the Style Guide handy, find the flaws in the exercises below. Please not
 
 
 ## Step 4
-We’re not that happy with the password cracking chapter of the Cybersecurity course, because
-- it suggests that hard-to-remember passwords are better (see: easy to remember, hard to guess)
-- it doesn’t call brute-force attacks by their name and it only mentions dictionary attacks in passing
+### 1
+Revisit the Introduction chapter in the JavaScript Basics course. It's part of the Become a Web Developer track you've completed earlier. Your task is to create a chapter like that for a fictional Lua Basics course.
 
-Your task is to improve this chapter.
+### 2
+Take some time to familiarize with Lua and its applications and make a list of resources to come back to. 
 
-Start with research on password cracking and make a list of resources to come back to. Then summarize your research phase in a few sentences. How did you find the resources? Which resources did you include for what reason? Which resources did you exclude for what reason?
 
-Then draft the following changes in a text editor or word processor using the interactive elements you’ve encountered in the programming courses.
+### 3
+Then summarize your research in a few sentences. How did you go about? Which resources did you use for what reason? Which resources did you exclude for what reason?
 
-Before the “Online dictionary attacks” exercise, create a “Brute-force attacks” exercise in which you explain brute-force attacks in the Mimo style and voice.
-
-Rewrite the “Online dictionary attacks” exercise starting from scratch to build on the “Brute-force attacks” exercise.
-
-After the “What’s a strong password?” exercise, create a “Hard-to-remember passwords” exercise in which you talk about the security issue behind hard-to-remember passwords and introduce “easy to remember, hard to guess”.
+### 4
+Now draft the 10-15 exercises of the chapter in a text editor, word processor, or even on a piece of paper using the interactions you’ve seen in the JavaScript Basics course. You're welcome to use exercises from JavaScript Basics as a reference but try to be as original as you can. If you want to include illustrations, either describe them or sketch them out. For any interactions, you can draw options or simply list them.
 
 ## Bonus Step
-List other flaws and opportunities for improvement you found in the Mimo app.
+Did something bug you along the way? Describe the biggest flaw you found in the Mimo app.
 
 ## Final Step
-Send the results of this exercise back to us no later than 24 hours after you’ve received them.
+Return your results no later than 48 hours after you’ve received them.
