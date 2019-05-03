@@ -5,13 +5,13 @@ Welcome to the Course Engineer Challenge. The purpose of this exercise is to giv
 Fingers crossed!
 
 ## Step 1
-Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the JavaScript Basics course in the Become a Web Developer track. Seriously, complete it. Only continue to step 2 when you’ve completed the course.
+Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the first six skills in the Become a Web Developer track. Seriously, complete them. Only continue to step 2 when you’ve completed them.
 
 ## Step 2
-Read the Course Engineer’s Style Guide we've sent you. It describes how we write content at Mimo, how we call or spell things, how we punctuate, and so forth.
+Read the Course Engineer’s [Style Guide](https://github.com/getmimo/Teachers/wiki/Style-guide). It describes how we write content at Mimo, how we call or spell things, how we punctuate, and so forth.
 
 ## Step 3
-Keeping the Style Guide handy, find the flaws in the exercises below. Please note that we’ve taken these screenshots in the Course Builder, which means they look a little different than in the Mimo app.
+Keeping the [Style Guide](https://github.com/getmimo/Teachers/wiki/Style-guide) handy, find the flaws in the exercises below. Please note that we’ve taken these screenshots in the Course Builder, which means they look a little different than in the Mimo app.
 
 
 ### Question 1:
@@ -43,17 +43,16 @@ Keeping the Style Guide handy, find the flaws in the exercises below. Please not
 
 ## Step 4
 ### 1
-Revisit the Introduction chapter in the JavaScript Basics course. It's part of the Become a Web Developer track you've completed earlier. Your task is to create a chapter like that for a fictional Lua Basics course.
+Revisit the first skill in the Learn to Code track you've completed earlier. Your task is to create a chapter like that for a fictional Lua Basics course.
 
 ### 2
 Take some time to familiarize with Lua and its applications and make a list of resources to come back to. 
-
 
 ### 3
 Then summarize your research in a few sentences. How did you go about? Which resources did you use for what reason? Which resources did you exclude for what reason?
 
 ### 4
-Now draft the 10-15 exercises of the chapter in a text editor, word processor, or even on a piece of paper using the interactions you’ve seen in the JavaScript Basics course. You're welcome to use exercises from JavaScript Basics as a reference but try to be as original as you can. If you want to include illustrations, either describe them or sketch them out. For any interactions, you can draw options or simply list them.
+Now draft the 10-15 exercises of the chapter in a text editor, word processor, or even on a piece of paper using the interactions you’ve seen in the Learn to Code track. You're welcome to use exercises from the Learn to Code track as a reference but try to be as original as you can. If you want to include illustrations, either describe them or sketch them out. For any interactions, you can draw options or simply list them.
 
 ## Bonus Step
 Did something bug you along the way? Describe the biggest flaw you found in the Mimo app.
