@@ -5,7 +5,7 @@ Welcome to the Course Engineer Challenge. The purpose of this exercise is to giv
 Fingers crossed!
 
 ## Step 1
-Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the first six skills in the Become a Web Developer track. Seriously, complete them. Only continue to step 2 when you’ve completed them.
+Get the Mimo app [getmimo.com/download](getmimo.com/download) for Android or iOS. Create an account and activate Mimo Premium with the coupon code we've sent you. Complete the first six skills in the Learn to Code track. Seriously, complete them. Only continue to step 2 when you’ve completed them.
 
 ## Step 2
 Read the Course Engineer’s [Style Guide](https://github.com/getmimo/Teachers/wiki/Style-guide). It describes how we write content at Mimo, how we call or spell things, how we punctuate, and so forth.
